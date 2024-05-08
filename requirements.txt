@@ -1,0 +1,5 @@
+Django~=4.0
+xhtml2pdf~=0.2.5
+reportlab~=3.6.3
+django-filter~=21.1
+utils~=1.0.1
